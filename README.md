@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, I'm William 👋
+
+- 🎓 Final year student at ![Epitech](https://www.epitech.eu/en/)
+- ⚙️ Intern DevOps engineer at ![Partoo](https://partoo.co)
+- ⌨️ Keyboard nerd
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williambcra&count_private=true&show_icons=true&theme=nightowl)
 
 <!--
 **williambcra/williambcra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
