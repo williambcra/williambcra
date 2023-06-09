@@ -1,7 +1,7 @@
 ### Hello, I'm William 👋
 
-- 🎓 Final year student at [Epitech](https://www.epitech.eu/en/)
-- ⚙️ Intern DevOps engineer at [Partoo](https://partoo.co)
+- 🎓 Master Graduate at [Epitech](https://www.epitech.eu/en/)
+- ⚙️ Intern DevOps engineer at [Groupe-JVS]((https://fr.linkedin.com/company/groupe-jvs))
 - ⌨️ Keyboard nerd
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williambcra&count_private=true&show_icons=true&theme=nightowl)
