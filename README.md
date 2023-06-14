@@ -2,7 +2,7 @@
 
 - 🎓 Master Graduate at [Epitech](https://www.epitech.eu/en/)
 - ⚙️ DevOps engineer
-- ⌨️ Keyboard nerd
+<!-- - ⌨️ Keyboard nerd -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williambcra&count_private=true&show_icons=true&theme=nightowl) -->
 
