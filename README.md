@@ -1,7 +1,7 @@
 ### Hello, I'm William 👋
 
 - 🎓 Master Graduate at [Epitech](https://www.epitech.eu/en/)
-- ⚙️ DevOps engineer at [Groupe-JVS](https://fr.linkedin.com/company/groupe-jvs)
+- ⚙️ DevOps engineer
 - ⌨️ Keyboard nerd
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williambcra&count_private=true&show_icons=true&theme=nightowl)
